@@ -1,5 +1,5 @@
 
-Hi👋, I'm Sahil Panwar                 
+## Hi👋, I'm Sahil Panwar                 
                   
                   ███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
                   ██╔════╝██║   ██║██║     ██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
@@ -15,7 +15,7 @@ Hi👋, I'm Sahil Panwar
                   ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
                   ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╝
 
-## Currently building scanlyfix application for developer/vibecoders
+Currently building scanlyfix application for developer/vibecoders🎧......
 
 
 ## 🕸️ Connect With Me
