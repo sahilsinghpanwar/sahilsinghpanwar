@@ -15,7 +15,7 @@
                   ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
                   ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╝
 
-Currently building scanlyfix application for developers/vibecoders🎧......
+Currently building scanlyfix application for developers/vibecoders🎧...... (scanlyfix.com)
 
 
 ## 🕸️ Connect With Me
